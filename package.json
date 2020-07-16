@@ -7,14 +7,14 @@
   "module": "dist/index.module.js",
   "unpkg": "dist/index.umd.min.js",
   "devDependencies": {
-    "@babel/core": "7.10.2",
-    "@babel/preset-env": "7.10.2",
-    "babel-jest": "26.0.1",
-    "eslint": "7.2.0",
+    "@babel/core": "7.10.5",
+    "@babel/preset-env": "7.10.4",
+    "babel-jest": "26.1.0",
+    "eslint": "7.4.0",
     "eslint-config-prettier": "6.11.0",
     "eslint-plugin-prettier": "3.1.4",
-    "jest": "26.0.1",
-    "microbundle": "0.12.1",
+    "jest": "26.1.0",
+    "microbundle": "0.12.3",
     "prettier": "2.0.5"
   },
   "scripts": {
